@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "menuItemId": 1,
+        "quantity": 2
+      },
+      {
+        "menuItemId": 2,
+        "quantity": 1
+      }
+    ],
+    "total": 735
+  },
+  {
+    "id": 2,
+    "items": [
+      {
+        "menuItemId": 1,
+        "quantity": 1
+      }
+    ],
+    "total": 262.5
+  }
+]

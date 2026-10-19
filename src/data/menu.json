@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "price": 250,
+        "ingredients": [
+            {
+                "ingredientId": 2,
+                "quantity": 0.25
+            },
+            {
+                "ingredientId": 3,
+                "quantity": 0.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Paneer Tikka",
+        "price": 200,
+        "ingredients": [
+            {
+                "ingredientId": 4,
+                "quantity": 0.2
+            }
+        ]
+    }
+]
